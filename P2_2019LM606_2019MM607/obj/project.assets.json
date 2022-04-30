@@ -5702,19 +5702,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\reyna\\.nuget\\packages\\": {}
+    "C:\\Users\\kjlme\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DPWA2\\P2_2019LM606_2019MM607\\P2_2019LM606_2019MM607\\P2_2019LM606_2019MM607.csproj",
+      "projectUniqueName": "C:\\Users\\kjlme\\Downloads\\P2_Kevin-Y-Reynaldo-main\\P2_Kevin-Y-Reynaldo-main\\P2_2019LM606_2019MM607\\P2_2019LM606_2019MM607.csproj",
       "projectName": "P2_2019LM606_2019MM607",
-      "projectPath": "D:\\DPWA2\\P2_2019LM606_2019MM607\\P2_2019LM606_2019MM607\\P2_2019LM606_2019MM607.csproj",
-      "packagesPath": "C:\\Users\\reyna\\.nuget\\packages\\",
-      "outputPath": "D:\\DPWA2\\P2_2019LM606_2019MM607\\P2_2019LM606_2019MM607\\obj\\",
+      "projectPath": "C:\\Users\\kjlme\\Downloads\\P2_Kevin-Y-Reynaldo-main\\P2_Kevin-Y-Reynaldo-main\\P2_2019LM606_2019MM607\\P2_2019LM606_2019MM607.csproj",
+      "packagesPath": "C:\\Users\\kjlme\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kjlme\\Downloads\\P2_Kevin-Y-Reynaldo-main\\P2_Kevin-Y-Reynaldo-main\\P2_2019LM606_2019MM607\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\reyna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kjlme\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5767,7 +5767,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

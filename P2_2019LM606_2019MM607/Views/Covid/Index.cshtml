@@ -31,7 +31,7 @@
                 <div class="mb-3 col-md-5">
                     <label for="departamentos" class="form-label">Departamentos</label>
 
-                    <select class="form-select w-100" name="departamento_id" required>
+                    <select class="form-select w-100" name="departamento" required>
                         <option selected disabled>Selecciona un departamento</option>
 
                         @foreach (var item in (departamentos))
@@ -45,8 +45,8 @@
                 <div class="mb-3 col-md-5">
                     <label for="generos" class="form-label">Genero</label>
 
-                    <select class="form-select w-100" name="departamento_id" required>
-                        <option selected disabled>Selecciona un departamento</option>
+                    <select class="form-select w-100" name="genero" required>
+                        <option selected disabled>Selecciona un genero</option>
 
                         @foreach (var item in (generos))
                         {
